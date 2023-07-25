@@ -15,7 +15,7 @@ Aqui eu busco utilizar de diversas práticas que o Angular fornece
 
 Você pode encontrar o Front-Endd desse projeto em https://github.com/jaoxavier/my-personal-management-web
 
-# My Personal Management WEB (US)
+# My Personal Management APP (US)
 
 This is the front-end of my personal project of management, this project will have several personal metrics, such as reading tracking, eating tracking, spending tracking
 
